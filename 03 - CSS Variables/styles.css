@@ -8,6 +8,8 @@ img {
     padding: var(--spacing);
     background: var(--base);
     filter: blur(var(--blur));
+    height: 500px;
+    width: 800px;
 }
 
 .highlight {
